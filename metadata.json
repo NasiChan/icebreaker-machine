@@ -1,0 +1,5 @@
+{
+  "name": "Icebreaker Machine",
+  "description": "A playful tool to generate chaos-tuned icebreaker questions for dates, friends, and awkward moments using Gemini.",
+  "requestFramePermissions": []
+}
